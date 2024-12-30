@@ -6,3 +6,5 @@ assignments in the course Computer Graphics taught at ETH Zürich.
 
 Final result is here
 ![Rendering result](result/scene.png)
+
+Boy and scarecrow uses BSSRDF. The boy is standing in water which uses volumetric rendering. The background is using environment lighting.
